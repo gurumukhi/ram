@@ -1,6 +1,6 @@
 ram
 ===
 
-ram's repo
+Hi, Its my home page on github pages
 
-currently working on https://bitbucket.org/adaventure
+Other Repo : https://bitbucket.org/adaventure
