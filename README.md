@@ -1,26 +1,23 @@
 # Ram Dayal Vaishnav
  
- * _Tech Speaker_
- * _Future Technologies_
- * _Freelance Frontend Developer_
+_Freelance Frontend Developer_, _Tech Speaker_, _Future Technologies_
 
 
 ### Work Experience
 
 * [2014-2015] **D. E. Shaw India**: Software Engineer
 * [2015-2020] **Arcesium India**: Engineering Lead
-* [2020-Present] **Freelanlcer**
-
-### Currently playing around
-
-* Hybrid App Development (Ionic)
-* Frontend Development (React)
-* CMS (Wordpress)
+* [2020-Present] **Freelanlcer**: Web Dev, App Dev, Future Technologies etc
+ * Hybrid App Development (Ionic)
+ * Frontend Development (React)
+ * VR Developement (A-Frame)
+ * CMS (Wordpress)
+ * And many more
 
 ### Mozilla Open Source Contributions
 
-* [Mozillian since 2012 Profile](https://mozillians.org/en-US/u/gurumukhi)
-* Mozilla Tech Speaker
+* [Mozillian](https://mozillians.org/en-US/u/gurumukhi) (since 2012)
+* [Mozilla Tech Speaker](https://gurumukhi.wordpress.com/about-me/)
 * Mozilla Representative
  * Featured Rep (Nov'16)
  * Resources Rep member
@@ -29,7 +26,7 @@
 * Co-founder & community liaison of WebVR India group (a developer community in India working on VR development & evangelism). 
 * DevDiner.com, a website related to emerging technologies, named Ram as one of their VR inspirations of 2016 for his inspirational work in the fields of VR & IoT.
 
-Projects:
+Mozilla Projects:
 
 * SuMo, L10n
 * FSA, Campus Clubs
@@ -46,9 +43,15 @@ Projects:
 * JSFoo 2017, Bangalore India
 * SHA 2017, Netherlands
 * MozFest 2016, London
-* FOSSASIA 2016, Singapore
 * Mozilla All Hands 2016, Hawaii USA
+* FOSSASIA 2016, Singapore
 * Mozilla All Hands 2015, Orlando USA
+
+### Open ource projects:
+
+* [Cross browser Add-on](https://addons.mozilla.org/en-US/firefox/user/9895978/)
+* [Fitbit Applications](https://gallery.fitbit.com/developer/c8b2b4f0-8568-4caf-8cc6-9683293dae76)
+* [Many others...](https://github.com/gurumukhi/)
 
 ### Mentions:
 
@@ -60,10 +63,11 @@ Projects:
 * 'VR inspirations of 2016' by DevDiner.com
 
 
-## Catch more updates from Ram's posts at
-
-* [Personal blog](https://gurumukhi.wordpress.com/)
+## Connect/Read more
+* [Blog](https://gurumukhi.wordpress.com/)
+* [Twitter](https://twitter.com/ram_gurumukhi)
+* [LinkedIn](http://in.linkedin.com/in/gurumukhi/)
 * [MozVR blog](https://blog.mozvr.com/author/ram/)
-* [Mozilla India blog](http://blog.mozillaindia.org/author/gurumukhi)
+* [MozillaIndia blog](http://blog.mozillaindia.org/author/gurumukhi)
 * [YouTube Channel](https://www.youtube.com/user/vaishnavrd)
-* [LinkedIn Profile](http://in.linkedin.com/in/gurumukhi/)
+* [Upwork freelancer profile](https://www.upwork.com/o/profiles/users/~013db2e94d8e5a8f9e/)
