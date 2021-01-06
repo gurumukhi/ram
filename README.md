@@ -18,7 +18,7 @@ _Freelance Frontend Developer_, _Tech Speaker_, _Future Technologies_
 
 * [Mozillian](https://mozillians.org/en-US/u/gurumukhi) (since 2012)
 * [Mozilla Tech Speaker](https://gurumukhi.wordpress.com/about-me/)
-* Mozilla Representative
+* Mozilla [Representative](https://mozilla.github.io/reps-archive/u/Ram/index.html)
  * Featured Rep (Nov'16)
  * Resources Rep member
 * Community Advisory Group
