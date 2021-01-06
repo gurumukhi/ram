@@ -36,11 +36,12 @@ Mozilla Projects:
 * Firefox Addons
 * WebAssembly
 
-## Conference Talks:
+## Internation Conference Talks:
 
 * Mozilla TS Meetup Singapore 2019
 * Mozilla TS Meetup Paris 2018
 * JSFoo 2017, Bangalore India
+* JSFoo 2017 [Workshop](https://jsfoo.in/2017-webvr-workshop/), Bangalore India
 * SHA 2017, Netherlands
 * MozFest 2016, London
 * Mozilla All Hands 2016, Hawaii USA
